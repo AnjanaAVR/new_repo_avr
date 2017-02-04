@@ -1,0 +1,4939 @@
+<?xml version='1.0' encoding='ASCII'?>
+<ROOT>
+  <detector_details>
+    <field1 name="detector_ID">I-74 NB from 12th Ave to 7th Ave</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-74 NB from 7th Ave to 4th Ave</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-74 NB from 4th Ave to 1st Ave</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-74 NB from 1st Ave to Toll Pla</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-74 NB from Toll Plaza to South</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-74 NB from South Tower to Nort</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-74 NB from North Tower to Isle</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-74 NB from Isle Park to Holmes</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-74 NB from Lincoln to Middle</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-74 NB from Spruce Hills to Cro</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-74 NB from Middle to Spruce Hi</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-74 SB from 46th to Kimberly</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-74 NB from Crow Creek to 53rd</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-74 SB from 53rd to 46th</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-74 SB from Kimberly to Middle</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-74 SB from Middle to Lincoln</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-74 SB from Holmes to Isle Park</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-74 SB from Isle Parkway to Nor</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-74 SB from North Tower to Sout</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-74 SB from South Tower to Toll</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-74 SB from Toll Plaza to 1st A</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-74 SB from 1st Ave to 4th Ave</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-74 SB from 4th Ave to 7th Ave</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-74 SB from 7th Ave to 12th Ave</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-74 SB from 12th Ave to Ave of </field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-74 NB from Holmes to Lincoln</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-74 SB from Lincoln to Holmes</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">QCDS-19-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">QCDS-20-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">QCDS-21-WB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">QCDS-22-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">QCDS-20-WB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">QCDS-23-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">QCDS-23-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">QCDS-22-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">QCDS-20-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">QCDS-19-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">QCDS-24-EB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">QCDS-24-EB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">QCDS-25-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">QCDS-25-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">DMTT05-EB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">DMTT05-WB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-74 SB from 4th Ave to 7th Ave </field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID"> I-74 NB from 7th Ave to 4th Ave</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-74 SB from 1st Ave to 4th Ave </field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3546-WB                      </field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3546-EB                      </field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3553-WB                      </field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3553-EB                      </field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3545-EB                      </field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3545-WB                      </field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3551-WB                      </field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3551-EB                      </field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3080-NB                      </field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3080-SB                      </field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3068-WB                      </field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3068-EB                      </field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3076-EB                      </field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3076-WB                      </field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3077-WB                      </field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3077-EB                      </field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3078-EB                      </field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3078-WB                      </field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3079-EB                      </field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3079-WB                      </field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3088-WB                      </field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3088-EB                      </field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3542-EB                      </field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3542-WB                      </field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS01 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS01 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS02 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS02 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS03 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS03 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS04 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS04 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS04 NB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS05 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS05 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS06 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS06 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS07 Ramp RL</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS08 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS08 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS08 SB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS09 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS09 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS09 NB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS09 SB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS10 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS10 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS10 NB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS10 SB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS11 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS11 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS11 NB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS11 SB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS12 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS12 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS12 NB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS12 SB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS13 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS13 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS14 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS14 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS15 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS15 NB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS16 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS17 NB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS19 SB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS19 NB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS20 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS20 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS20 NB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS20 SB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS22 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS21 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS23 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS23 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS23 NB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS24 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS24 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS24 NB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS24 SB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS25 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS25 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS25 NB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS25 SB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS26 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS27 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS28 NB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS28 SB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS28 NB Ramp</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS28 SB Ramp</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS29 NB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS29 SB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS29 NB Ramp</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS29 SB Ramp</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS30 NB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS30 SB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS30 NB Ramp</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS30 SB Ramp</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS31 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS31 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS32 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS32 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS32 NB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS32 SB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS33 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS33 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS33 NB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS33 SB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS34 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS34 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS34 NB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS34 SB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS35 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS35 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS36 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS36 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS38 EB T</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS38 WB T</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS39 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS39 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS40 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS40 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS40 EB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS41 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS41 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS41 EB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS41 WB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS42 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS42 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS43 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS43 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS44 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS44 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS44 EB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS44 WB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS45 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS45 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS45 EB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS46 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS46 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS46 EB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS46 WB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS47 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS47 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS47 EB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS48 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS48 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS48 EB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS48 WB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS49 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS49 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS49 EB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS50 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS50 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS50 EB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS50 WB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS51 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS51 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS51 EB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS51 WB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS52 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS52 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS53 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS53 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS54 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS54 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS55 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS55 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS55 EB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IA 13 CRDS56 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IA 13 CRDS56 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IA 13 CRDS56 NB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IA 13 CRDS56 SB Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS37 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 CRDS37 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 CRDS07 Ramp LL</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 IWZ 4036 WB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 IWZ 4036 EB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 IWZ 4062 WB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 IWZ 4062 EB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 IWZ 4067 WB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 IWZ 4067 EB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ 629 WB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ 629 EB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ 3086 EB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ 3086 WB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 22 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 23 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 24 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 25 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 37 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 40 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 41 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 42 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 43 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 34 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 22 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 23 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 24 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 25 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 38 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 40 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 41 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 42 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 43 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 34 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 44 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 45 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 46 NB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 46 SB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 47 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 47 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 48 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 48 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 49 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 49 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS50 - I-29 NB @ Old Mormon Br</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS50 - I-29 SB @ I-680 WB Off </field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 51 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 51 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 21 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 21 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 20 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 20 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 32 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 32 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 33 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 33 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 31 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 31 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 36 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 36 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 36 EB Ramp to I-29 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 39 EB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 39 WB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 07 I-80 WB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 02 EB Ramp to I-29 NB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 01 I-80 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 01 I-80 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 27 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 27 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 52 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 52 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 26 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 26 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 29 NB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 29 SB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 28 NB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 28 SB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 19 NB to I-80 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 18 SB On from I-80 WB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 30 NB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 30 SB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 12 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 12 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 17 WB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 16 EB Thru to I-80 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 10 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 10 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 14 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 14 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 05 I-29 NB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 04 SB Ramp to I-80 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 04 SB Ramp to I-80 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 06 EB Ramp from I-29 SB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 07 I-80 WB Ramp to I-29 NB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 18 SB from I-80 EB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 19 NB to I-80 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 35 SB ramp from I-480 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 36 WB Ramp from I-29 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 37 NB Ramp from I-480</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 51 EB Off Ramp to I-29 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 35 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 16 EB Thru to I-29 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 17 WB from I-29 NB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 01 I-80 EB to I-29 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 29 US 275 to I-29 SB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 30 I-29 SB to US 275</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SB to Nebraska Ave</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">Nebraska Ave to I-29 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">9th Ave to I-29 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 NB to 9th Ave</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 NB to US 275 EB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 12 EB Exit Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 14 EB On Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 14 WB Off Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 21 EB On Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 21 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3090 - I-29 SB @ IA 92</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ 4012 SB Ramp</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 IWZ 4071 WB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 IWZ 4071 EB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 48 SB OR</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 48 NB OR</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3090 - I-29 NB @ IA 92</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 08 EB_2</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 CBDS 55 WB On Ramp from S 2</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 CBDS 55 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 CBDS 55 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 CBDS 56 EB On Ramp from S 2</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 CBDS 56 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 CBDS 57 EB Off Ramp to S Ex</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 CBDS 58 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 CBDS 58 EB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS-59-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS-59-WBR</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 60 SB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 CBDS 55 WB Off Ramp to S 24</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 17 I-80 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 17 I-80 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 17 I-29 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 17 I-29 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 43 NB On Ramp              </field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 43 SB Off Ramp             </field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3060 - IA 92 WB @ Valley View</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3060 - IA 92 EB @ Valley View</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 45 SB Off Ramp             </field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 61 I-80 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 61 I-80 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 35 NB                      </field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 38 SB Off Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 51 WB On Ramp from I-29 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS50 - I-29 NB On Ramp @ Old M</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS50 - I-29 SB Off Ramp @ I-68</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS71 - I-80 EB Off Ramp @ I-29</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 49 NB On Ramp              </field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 49 SB Off Ramp             </field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3090 - I-29 SB Off Ramp @ IA </field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS 18 SB Off from I-80 EB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS31 - I-29 SB On Ramp @ Nebra</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">CBDS31 - I-29 NB Off Ramp @ Nebr</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB Wapsi to Hoover</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB Hoover to Wapsi</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB Hoover to Lynden Hgts</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB Lynden Hgts to Hoover</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB Lynden Hgts to Prairie d</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB Praire du Chen to Lynden</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB Prairie du Chen to River</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB River to Prairie du Chen</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB River to 127th</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB 127th to River</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB 127th to East of Coral R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB East of Coral Ridge to 1</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB Coral Ridge Int.</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB Coral Ridge Int.</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB West of Coral Ridge to 2</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB 2nd to West of Coral Rid</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB 2nd to I-380</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB I-380 to 2nd</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB I-380 to West of Jasper</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB West of Jasper to I-380</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB West of Jasper to West o</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB West of Ireland to West </field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB West of Ireland to Half </field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB Half Moon to West of Ire</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 218 NB Iowa 1 to Rohret</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 218 SB Rohret to Iowa 1</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 218 NB Rohret to North of Mel</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 218 SB North of Melrose to Ro</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 218 NB North of Melrose to 35</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 218 SB 355th St to North of M</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 218 NB 355th St. to I-80</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 218 SB I-80 to 355th St.</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 NB I-80 to North of US 6</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 SB North of US 6 to I-80</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 NB North of US 6 to 270th </field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 SB 270th St. to North of U</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 NB 270th St. to North of P</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 SB North of Penn to 270th </field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 NB North of Penn to North </field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 SB North of Swan Lake to N</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 NB North of Swan Lake to N</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 SB North of River to North</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 NB North of River to 140th</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 SB 140th St. to North of R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 NB 140th St. to North of 1</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 SB North of 120th St. to 1</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 NB North of 120th St. to S</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 SB  South of Wright Brothe</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 NB South of Wright Brother</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 SB South of 76th Ave. to S</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 NB South of 76th Ave. to 6</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 SB 66th Ave. to South of 7</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 NB 66th Ave. to US 30</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 SB US 30 to 66th Ave.</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 WLDS-14 SB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 WLDS-15 SB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 WLDS-12 SB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 to US-20 WLDS-12 SB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 WLDS-11 SB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 WLDS-10 SB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 WLDS-09 SB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 WLDS-08 SB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 WLDS-07 SB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US-20 WLDS-06 EB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 WLDS-05 SB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US-20 WLDS-04 EB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US-20 WLDS-03 EB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US-20 WLDS-02 EB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US-20 WLDS-01 EB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US-20 WLDS-01 WB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US-20 WLDS-02 WB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US-20 WLDS-03 WB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US-20 WLDS-04 WB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US-20 WLDS-06 WB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 WLDS-07 NB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 WLDS-08 NB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 WLDS-09 NB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 WLDS-10 NB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 WLDS-11 NB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 WLDS-13 NB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US-20 to I-380 WLDS-13 NB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 WLDS-14 NB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 WLDS-15 NB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 OXDS01 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 OXDS02 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 OXDS03 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 OXDS03 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 OXDS02 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 OXDS01 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 WLDS-17 NB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 WLDS-17 SB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 WLDS-18 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 WLDS-18 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 WLDS-16 NB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 WLDS-16 SB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 WLDS-16 SB Ramp</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 IWZ 4019 SB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 IWZ 4018 SB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 IWZ 4046 SB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 IWZ 4011 WB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 IWZ 4045 NB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 IWZ 4032 NB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 218 IWZ 4044 NB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 218 IWZ 4044 SB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 218 IWZ 4023 NB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 218 IWZ 4023 SB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 20 IWZ 4025 WB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 20 IWZ 4025 EB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 IWZ 4017 WB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 IWZ 4017 EB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 IWZ 4008 WB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 IWZ 4008 EB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 IWZ 4013 EB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 IWZ 4013 WB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 20 IWZ 3073 EB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 20 IWZ 3073 WB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 20 IWZ 3093 EB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 20 IWZ 3093 WB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 IWZ 216 SB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-380 IWZ 216 NB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB Coral Ridge Int. On Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB East of Coral Ridge to 1</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB 127th to East of Coral R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB 2nd to West of Coral Rid</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB West of Coral Ridge to 2</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ2005 - I-380 NB @ MM 6.82</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ2005 - I-380 SB @ MM 6.82</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ 3062 NB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ 3062 SB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB Coral Ridge Int. On Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 EB @ MP 135.5</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 EB @ IA 17</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 EB @ MP 139</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 EB @ U Ave</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 EB @ MP 142</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 EB @ County Rd R38</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 EB @ County Rd R38</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 EB @ 520th Ave</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 EB @ MP 146.6</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 EB @ MP 147.2</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 EB @ MP 148.1</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 EB @ US 69</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 EB @ MP 148.7</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 EB @ S Dayton Ave</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 EB @ I-35</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 EB @ MP 152</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 EB @ 580th Ave</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 EB @ 600th Ave</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 EB @ County Highway S14</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 EB @ S 11th St</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 EB @ S 19th St</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 WB @ S 19th St</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 WB @ S 11th St</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 WB @ County Highway S14</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 WB @ 600th Ave</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 WB @ 580th Ave</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 WB @ MP 152</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 WB @ I-35</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 WB @ S Dayton Ave</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 WB @ MP 148.7</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 WB @ US 69</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 WB @ MP 148.1</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 WB @ MP 147.2</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 WB @ MP 146.6</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 WB @ 520th Ave</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 WB @ County Rd R38</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 WB @ County Rd R38</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 WB @ MP 142</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 WB @ U Ave</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 WB @ MP 139</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 WB @ IA 17</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 WB @ MP 135.5</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB @ County Highway E29</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB @ E 13th St</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB @ E Lincoln Way</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB @ US 30 North</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB @ US 30 South</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB S of US 30</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB @ County Rd E57</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB @ MP 107.8</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB @ MP 105.7</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB @ Heart of Iowa Nature T</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB @ IA 210</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB @ NE 158th Ave</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB @ NE 142nd Ave</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB @ NE 126th Ave</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB @ NE 36th St</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB @ MP 94</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB @ MP 94</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB @ NE 36th St</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB @ NE 126th Ave</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB @ NE 142nd Ave</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB @ NE 158th Ave</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB @ IA 210</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB @ Heart of Iowa Nature T</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB @ MP 105.7</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB @ MP 107.8</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB @ County Rd E57</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB S of US 30</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB @ US 30 South</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB @ US 30 North</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB @ E Lincoln Way</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB @ E 13th St</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB @ County Highway E29</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 EB @ MP 142 Exit Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 EB @ County Rd R38 Entranc</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 WB @ MP 146.6 Exit Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 EB @ MP 148.1 Exit Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 EB @ US 69 Entrance Ramp</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 EB @ S 19th St Exit Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 WB @ MP 148.7 Exit Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 WB @ MP 146.6 Entrance Ram</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 EB @ I-35 Exit Ramp</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB S of US 30 Entrance Ramp</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB S of US 30 Exit Ramp</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 EB @ S 19th St Entrance Ra</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 @ 220th St SB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 @ 220th St NB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 @ 250th St SB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 @ 250th St NB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 @ 250th St SB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 @ 250th St NB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 @ 320th St SB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 @ 320th St NB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 @ 330th St NB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 @ 330th St SB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 @ 340th St NB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 @ 340th St SB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 @ 350th St NB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 @ 350th St SB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 @ 360th St NB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 @ 360th St SB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 @ 380th St NB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 @ 380th St SB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB Off Ramp US-30 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB On Ramp US-30 WB        </field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">PEEK TEST                       </field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 WB @ MP 142 On Ramp LL    </field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 WB @ MP 147.2 Exit Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 EB @ MP 147.2 Entrance Ram</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB @ US 30 South Entrance R</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB @ US 30 South Exit Ramp </field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 30 EB @ MP 148.7 Entrance Ram</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ2990 - US 20 EB @ I-35 SB Off</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ2990 - US 20 WB @ I-35 SB On </field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ2992 - US 20 EB @ MM 152.2</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ2992 - US 20 WB @ MM 152.2</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ2994 - US 20 EB @ MM 154.15</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ2994 - US 20 WB @ MM 154.15</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ2999 - US 20 EB @ Vail Ave</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ2999 - US 20 WB @ Vail Ave</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3053 - I-35 SB @ MM 185.1</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3053 - I-35 NB @ MM 185.1</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3546 - I-35 NB @ MM 183.2</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3546 - I-35 SB @ MM 183.2</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3553 - I-35 NB @ MM 186.05</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3553 - I-35 SB @ MM 186.05</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR1000 - I-29 NB @ MM 63.95</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR1000 - I-29 SB @ MM 63.95</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR1020 - I-29 NB @ MM 28.55    </field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR1020 - I-29 SB @ MM 28.55    </field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR1040 - I-35 NB @ MM 136</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR1040 - I-35 SB @ MM 136</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR1060 - I-35 NB @ MM 13.40</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR1060 - I-35 SB @ MM 13.40</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR1090 - I-35 NB @ MM 200.15</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR1090 - I-35 SB @ MM 200.15</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR1100 - I-80 EB @ MM 32.80</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR1100 - I-80 WB @ MM 32.80</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR1110 - I-80 EB @ MM 221.95</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR1110 - I-80 WB @ MM 221.95</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR1130 - I-380 NB @ MM 45</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR1130 - I-380 SB @ MM 45</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR1150 - I-80 EB @ MM 62.35</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR1150 - I-80 WB @ MM 62.35</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR1160 - I-80 EB @ MM 120.65</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR1160 - I-80 WB @ MM 120.65</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR1190 - I-80 EB @ MM 302.85</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR1190 - I-80 WB @ MM 302.85</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR1200 - I-80 EB @ MM 262</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR1200 - I-80 WB @ MM 262</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR1210 - I-35 NB @ MM 153.20</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR1210 - I-35 SB @ MM 153.20</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR1230 - I-80 EB @ MM 146.85</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR1230 - I-80 WB @ MM 146.85</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR1240 - I-680 EB @ MM 23.05</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR1240 - I-680 WB @ MM 23.05</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR1250 - I-380 NB @ M M 5.95</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR1250 - I-380 SB @ M M 5.95</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2020 - US 71 @ MM 83.00</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2020 - US 71 SB @ MM 83.00</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2050 - US 218 NB @ MM 52.35</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2050 - US 218 SB @ MM 52.35</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2070 - US 18 EB @ MM 132.35</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2070 - US 18 WB @ MM 132.35</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2100 - US 18 EB @ MM 46.60</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2100 - US 18 WB @ MM 46.60</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2140 - US 61 NB @ MM 45.25</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2140 - US 61 SB @ MM 45.25</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2160 - US 34 EB @ MM 95.95</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2160 - US 34 WB @ MM 95.95</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2170 - IA 122 EB @ MM 3.00</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2170 - IA 122 WB @ MM 3.00</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2190 - IA 122 EB @ MM 113.25</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2190 - IA 122 WB @ MM 113.25</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2210 - IA 9 EB @ MM 98.90</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">Edit me - ADR2210 - IA 9 WB @ MM</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2220 - IA 3 EB @ MM 138.25</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2220 - IA 3 WB @ MM 138.25</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2230 - IA 3 NB @ MM 38.65</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2230 - IA 3 SB @ MM 38.65</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2240 - US 59 NB @ MM 89.55</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2240 - US 59 SB @ MM 89.55</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2300 - US 169 NB @ MM 63.95</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2300 - US 169 SB @ MM 63.95</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2340 - IA 12 NB @ MM 21.65</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2340 - IA 12 SB @ MM 21.65</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2380 - IA 149 NB @ MM 24.15</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2380 - IA 149 SB @ MM 24.15</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2400 - IA 2 EB @ MM 18.25</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2400 - IA 2 WB @ MM 18.25</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2410 - IA 13 NB @ MM 33.35</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2410 - IA 13 SB @ MM 33.35</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2420 - US 61 NB @ MM 133.60</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2420 - US 61 SB @ MM 133.60</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2430 - US 30 EB @ MM 318.75</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2430 - US 30 WB @ MM 318.75</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2440 - IA 1 NB @ MM 71.20</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2440 - IA 1 SB @ MM 71.20</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2450 - US 20 EB @ MM 244.75</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2450 - US 20 WB @ MM 244.75</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2460 - IA 141 EB @ MM 131.40</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2460 - IA 141 WB @ MM 131.40</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2480 - IA 21 NB @ MM 48.45</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2480 - IA 21 SB @ MM 48.45</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2490 - US 216 NB @ MM 86.15</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2490 - US 216 SB @ MM 86.15</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2500 - US 65 NB @ MM 80.75</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2500 - US 65 SB @ MM 80.75</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2520 - US 18 NB @ MM 253.20</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2520 - US 18 SB @ MM 235.20</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2530 - US 216 NB @ MM 225.15</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2530 - US 216 SB @ MM 225.15</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2540 - IA 60 NB @ MM 53.70</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2540 - IA 60 SB @ MM 53.70</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2550 - US 20 EB @ MM 169.85</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2550 - US 20 WB @ MM 169.85</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2560 - US 18 EB @ MM 182.00</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2560 - US 18 WB @ MM 182.00</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2570 - US 20 EB @ MM 41.50</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2570 - US 20 WB @ MM 41.50</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2580 - US 30 EB @ MM 229.45</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2580 - US 30 WB @ MM 229.45</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2590 - US 30 EB @ MM 268.95</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2590 - US 30 WB @ MM 268.95</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2600 - US 71 NB @ MM 0.65</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2600 - US 71 SB @ MM 0.65</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2610 - US 69 NB @ MM 167.60</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2610 - US 69 SB @ MM 167.60</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2620 - US 63 NB @ MM 8.70</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2620 - US 63 SB @ MM 8.70</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2630 - US 52 NB @ MM 91.75</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2630 - US 52 SB @ MM 91.75</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2640 - IA 27 NB @ MM 0.65</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2640 - IA 27 SB @ MM 0.65</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2660 - IA 2 EB @ MM 190.65</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2660 - IA 2 WB @ MM 190.65</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2670 - US 34 EB @ MM 22.85</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2670 - US 34 WB @ MM 22.85</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2680 - US 30 EB @ MM 41.40</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2680 - US 30 WB @ MM 41.40</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2690 - US 30 EB @ MM 117.55</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2690 - US 30 WB @ MM 117.55</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2700 - US 71 NB @ MM 168.80</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2700 - US 71 SB @ MM 168.80</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2710 - US 18 EB @ MM 110.35</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2710 - US 18 WB @ MM 110.35</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2720 - US 71 NB @ MM 53.75</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2720 - US 71 SB @ MM 53.75</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2730 - US 34 EB @ MM 151.05</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2730 - US 34 WB @ MM 151.05</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2740 - IA 163 NB @ MM 37.35</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2740 - IA 163 SB @ MM 37.35</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2750 - US 20 EB @ MM 303.50</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2750 - US 20 WB @ MM 303.50</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2760 - US 63 NB @ MM 227.30</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2760 - US 63 SB @ MM 227.30</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2770 - US 34 EB @ MM 200.65</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2770 - US 34 WB @ MM 200.65</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2790 - IA 13 NB @ MM 50.10</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2790 - IA 13 SB @ MM 50.10</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2800 - IA 2 EB @ MM 117.30</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2800 - IA 2 WB @ MM 117.30</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2850 - US 20 EB @ MM 98.00</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2850 - US 20 WB @ MM 98.00</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2860 - US 34 EB @ MM 2.00</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2860 - US 34 WB @ MM 2.00</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR5010 - IA 5 NB @ MM 30.20</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR5010 - IA 5 SB @ MM 30.20</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR5030 - IA 415 EB @ MM 13.40</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR5030 - IA 415 WB @ MM 13.40</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR7050 - I-74 NB @ MM 3.50</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR7050 - I-74 SB @ MM 3.50</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR7080 - I-280 EB @ MM 8.90</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR7080 - I-280 WB @ MM 8.90</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR8110 - IA 192 NB @ MM 3.75</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR8110 - IA 192 SB @ MM 3.75</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR8120 - IA 122 EB @ MM 8.95</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR8120 - IA 122 WB @ MM 8.95</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR8160 - US 34 EB @ MM 260.35</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR8160 - US 34 WB @ MM 260.35</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR8200 - IA 17 NB @ MM 70.65</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR8200 - IA 17 SB @ MM 70.65</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR8260 - US 65 NB @ MM 86.50</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR8260 - US 65 SB @ MM 86.50</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR8300 - IA 23 NB @ MM 15.10</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR8300 - IA 23 SB @ MM 15.10</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2810 - US 151 NB @ MM 60.55</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR2810 - US 151 SB @ MM 60.55</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR8280 - IA 150 NB @ MM 54.95</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">ADR8280 - IA 150 SB @ MM 54.95</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 20 SDSC-23 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 20 SDSC-23 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 75 SDSC-24 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 75 SDSC-24 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 20 SDSC-22 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 20 SDSC-22 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 20 SDSC-21 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 20 SDSC-21 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 20 SDSC-19 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 20 SDSC-18 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-01 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-01 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-02 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-02 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-03 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-03 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-04 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-04 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-05 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-05 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 20 SDSC-06 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 20 SDSC-06 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 20 SDSC-07 WB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 20 SDSC-07 EB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-08 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-08 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-09 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-09 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-10 NB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-10 SB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-11 NB T</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-11 SB T</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-12 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-12 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-13 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-13 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-14 NB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-14 SB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-16 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-16 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-17 EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-17 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 20 SDSC-18 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 20 SDSC-19 WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 20 SDSC-20 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 20 SDSC-20 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SCDS-15 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SCDS-15 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SCDS-26 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SCDS-26 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SCDS-28 SB Exit Ramp Downto</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SCDS-29 NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SCDS-29 SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 20 SDSC-21 EB Off Ramp       </field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 20 SDSC-21 WB On Ramp        </field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-12 SB On Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-08 SB Ramp            </field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 20 SDSC-19 EB Off Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 20 SDSC-19 WB On Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-16 NB Off Ramp        </field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-16 SB On Ramp         </field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-11 NB Off Ramp T</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-12 NB Off Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 20 SDSC-22 NB Off Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 20 SDSC-22 SB On Ramp        </field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 20 SDSC-18 EB On Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 20 SDSC-18 WB Off Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-02 SB On Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-02 NB Off Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SCDS-30 SB                 </field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SCDS-30 NB                 </field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SCDS-31 SB                 </field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SCDS-31 NB                 </field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">DMTT06 - I-29 SB @ MM 148.83 T</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">DMTT06 - I-29 NB @ MM 148.83 T</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">DMTT06 - I-29 NB On Ramp @ MM 14</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">DMTT06 - I-29 NB Off Ramp @ MM 1</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 20 SDSC-23 NB Off Ramp       </field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-13 NB Off Ramp to Hami</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-29 SDSC-13 NB On Ramp from Wes</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 NB from EUCLID-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 NB from EUCLID-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 NB from EUCLID-EB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 NB from EUCLID-WB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 NB EUCLID LOOP-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 NB EUCLID LOOP-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 NB EUCLID LOOP-EB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 NB EUCLID LOOP-WB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 WB at Washington-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 WB at Washington-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 WB at Washington-EB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 EB at E 21st St-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 EB at E 21st St-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 EB at E 21st St-WB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 WB 9th STREET WALL-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 WB 9th STREET WALL-WB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 EB 9th STREET WALL-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 EB 9th STREET WALL-EB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 WB at WALKWAY-WB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 WB at WALKWAY-WB-R</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 EB at WALKWAY-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 EB at WALKWAY-EB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 WB WEST END of BRIDGE-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 WB WEST END of BRIDGE-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 WB WEST END of BRIDGE-WB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 EB to MLK-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 EB to MLK-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 EB 28th STREET-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 EB 28th STREET-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 at 42nd STREET EB-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 at 42nd STREET EB-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 EB EAST OF 63RD-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 EB EAST OF 63RD-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 EB EAST OF 63RD-EB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 EB EAST OF 63RD-WB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 EB @ 8th Street Loop-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 EB @ 8th Street Loop-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 EB @ 8th Street Loop-EB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 EB @ 8th Street Loop-WB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 WB E of 22nd STREET-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 WB E of 22nd STREET-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 WB E of 22nd STREET-EB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 WB E of 22nd STREET-WB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 EB from Vly West Dr-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 EB from Vly West Dr-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 EB from Vly West Dr-EB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 EB from Vly West Dr-WB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 EB to VALLEY WEST-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 EB to VALLEY WEST-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 EB to VALLEY WEST-EB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 EB to VALLEY WEST-WB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80-EB at WEST MIX-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB-EB at WEST MIX-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80/235 WB-EB at WEST MIX-EB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80/235 WB-EB at WEST MIX-WB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB at WEST MIXER-NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB at WEST MIXER-SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB at WEST MIXER-SB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 NB to HICKMAN-NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 NB to HICKMAN-SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 NB to HICKMAN-SB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 NB to DOUGLAS-NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 NB to DOUGLAS-SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 NB to DOUGLAS-NB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 SB from IA-141-NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 SB from IA-141-SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 SB from IA-141-SB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">EB to 86th STREET-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">EB to 86th STREET-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 EB to MERLE HAY-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 EB to MERLE HAY-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 EB to MERLE HAY-EB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 EB to MERLE HAY-WB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 EB WEST of 2nd AVENUE-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 EB WEST of 2nd AVENUE-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 EB to 2nd AVENUE-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 EB to 2nd AVENUE-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 EB to 2nd AVENUE-EB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 EB to 2nd AVENUE-WB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 EB from 2nd AVENUE-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 EB from 2nd AVENUE-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 EB from 2nd AVENUE-EB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 EB from 2nd AVENUE-WB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 WB to 14th STREET-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 WB to 14th STREET-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 WB to 14th STREET-EB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 WB to 14th STREET-WB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB at NORTH MSG SIGN-NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB at NORTH MSG SIGN-SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB at NORTH MSG SIGN-NB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB @ HUBBELL-WB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB at US-65 SB LOOP-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB at US-65 SB LOOP-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB at US-65 SB LOOP-WB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">Hwy65 South of I-80-NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">Hwy65 South of I-80-SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">Hwy65 South of I-80-NB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">Hwy65 South of I-80-SB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US-65 NB at 46th AVENUE-NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US-65 NB at 46th AVENUE-SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US-65 SB to UNIVERSITY-NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US-65 SB to UNIVERSITY-SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US-65 SB to VANDALIA ROAD-NB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US-65 SB to VANDALIA ROAD-SB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US-65 SB to VANDALIA ROAD-NB-R</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US-65 SB to VANDALIA ROAD-SB-R</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US-65 SB at SE 64th STREET-NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US-65 SB at SE 64th STREET-SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US-65 SB at SE 64th STREET-NB-R</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US-65 NB to SE 64th-NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US-65 NB to SE 64th-SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US-65 NB to SE 64th-NB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US-65 NB to SE 64th-SB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US- 65 @ US-69 EAST-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US- 65 @ US-69 EAST-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US- 65 @ US-69 EAST-EB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US- 65 @ US-69 EAST-WB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US-65 EB from/to US-69-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US-65 EB from/to US-69-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US-65 EB from/to US-69-EB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US-65 EB from/to US-69-WB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IA-5 EAST of SW 9th-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IA-5 EAST of SW 9th-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IA-5 EAST of SW 9th-EB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IA-5 EAST of SW 9th-WB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IA-5 EB to FLEUR DRIVE-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IA-5 EB to FLEUR DRIVE-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IA-5 EB to FLEUR DRIVE-EB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IA-5 EB to FLEUR DRIVE-WB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IA-5 WEST of IA-28-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IA-5 WEST of IA-28-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IA-5 EB to SW CONNECTOR-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IA-5 EB to SW CONNECTOR-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IA-5 EB to SW CONNECTOR-EB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IA 5 at MILE MARKER 103.55-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IA 5 at MILE MARKER 103.55-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IA 5 at MILE MARKER 103.55-WB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB EXIT to GRAND AVE-NB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB EXIT to GRAND AVE-SB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB EXIT to GRAND AVE-NB-R</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB EXIT to GRAND AVE-SB-R</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB to MILLS PARKWAY-NB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB to MILLS PARKWAY-SB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB to MILLS PARKWAY-NB-R</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB to MILLS PARKWAY-SB-R</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB at I-235 EB EXIT-NB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB at I-235 EB EXIT-SB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB at I-235 EB EXIT-NB-R</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB at I-235 EB EXIT-SB-R</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB at I-35 SB EXIT-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB at I-35 SB EXIT-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB at I-35 SB EXIT-EB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB at I-35 SB EXIT-WB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB at JORDAN CRK PKWY-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB at JORDAN CRK PKWY-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB at JORDAN CRK PKWY-EB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB at JORDAN CRK PKWY-WB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB at JORDAN CRK PKWY-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB at JORDAN CRK PKWY-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB at JORDAN CRK PKWY-WB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB at WEST MESSAGE SIGN-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB at WEST MESSAGE SIGN-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB to CORPORATE WOODS-NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB to CORPORATE WOODS-SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB to CORPORATE WOODS-NB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB to CORPORATE WOODS-SB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB to ORALABOR ROAD-NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB to ORALABOR ROAD-SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB to ORALABOR ROAD-NB-R</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB to ORALABOR ROAD-SB-R</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB at 1st AVE ANKENY-NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB at 1st AVE ANKENY-SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB North of Grand Portable-</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB DMDS69 @ Grand Ave-SB</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB at Ashworth Rd WDM-NB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB at Ashworth Rd WDM-SB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB at 52nd Street</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB at Newton OH DMS</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB at IA 14</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB at W 4th Street</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB at E 12th Street</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB at Speedway Drive</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB at 84th Street</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB at Hwy T22</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB at 108th Street</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB at 108th Street</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB at 84th Street</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB at Hwy T22</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB at Speedway Drive</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB at E 12th Street</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB at W 4th Street</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB at IA 14</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB at Newton OH DMS</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB at 52nd Street</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB @ NE 62nd Ave - Altoona</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB @ NE 62nd Ave - Altoona</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 EB @ NE 22nd Ave - DSM</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB East of 1st Ave N - Alto</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB @ NE 38th St - Altoona</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB @ NE 38th St - Altoona</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB @ DMS - Altoona</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB @ DMS - Altoona</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB @ Hubbell - Altoona</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB @ Hubbell - Altoona</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB @ Sign truss exit 137B -</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB @ Sign truss exit 137B -</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB East of 1st Ave N - Alto</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB Between US65N and US65S</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB Between US65N and US65S</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB North of East Mix</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB North of East Mix</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 EB @ DMS</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 WB @ DMS</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 EB @ Sign Truss</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 WB @ Sign Truss</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 EB @ Guthrie Ave</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 WB @ Guthrie Ave</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 EB West of University</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 WB @ Sign Truss</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 WB @ Sign Truss</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 EB @ Sign Truss</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 EB @ Sign Truss</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 @ Sign Truss-EB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 @ Sign Truss-WB</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 WB @ Sign Truss</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 NB Exit Ramp</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 WB West of University</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 WB @ Sign Truss</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 65 @ E Oakwood Dr SB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US 65 @ E Oakwood Dr NB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB @ MP 67</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB @ MP 67</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB @ F 90</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB @ F 90</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ 3075 NB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ 3075 SB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IA 5 WB @ MP 101</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IA 5 EB @ MP 101</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 IWZ 4003 WB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 IWZ 4038 EB_2</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 IWZ 4038 WB_2</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 IWZ 4035 EB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 IWZ 4035 WB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 @ MP 128.5</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 EB @ NW 26th St</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 @ MP 127.5</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 @ MP 127.5</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 @ MP 127.5</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 @ MP 127.5</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 NB @ MP 126.5</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 NB @ MP 126.5</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 SB @ MP 126.5</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB @ MP 124</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB @ MP 124</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB @ MP 124</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB @ MP 124</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB @ MP 68.57</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 SB @ MP 68.57</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB @ MP 68.57</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35 NB @ MP 68.57</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 WB @ NW 44th St</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 EB @ NW 44th St</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 EB @ NW Beaver Dr</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 WB @ NW 26th St</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 WB @ NW Beaver Dr</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 EB @ Iowa 28</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 EB @ Iowa 28</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 WB @ Iowa 28</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 WB @ Iowa 28</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 EB @ 72nd St</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 WB @ 72nd St</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 EB @ 86th St</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 WB @ 86th St</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 WB @ 86th St</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-35/80 @ MP 128.5</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 IWZ 4061 EB_2</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 IWZ 4061 WB_2</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 IWZ 4060 NB_2</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 IWZ 4060 SB_2</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 IWZ 4058 WB_OR_2</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 IWZ 4063 WB_2</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 IWZ 4063 EB_2</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 IWZ 4066 NB_OR_2</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 IWZ 4071 WB_2</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 IWZ 4071 EB_2</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ 4033 Ramp</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB ramp to I-35 SB West Mix</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB ramp to I-80/35 EB/NB We</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80/35 EB/NB Ramp from West Mix</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-235 EB @ Sign Truss           </field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3062 - I-80 WB @ MM 177.00</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3062 - I-80 EB @ MM 177.00</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ 3066 WB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ 3066 EB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3063 - I-35 NB @ MM 55.65</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3063 - I-35 SB @ MM 55.65</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3084 - I-35 NB @ IA 92</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3084 - I-35 SB @ IA 92</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3089 - I-80 EB @ MM 149.5</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3089 - I-80 WB @ MM 149.5</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3520 - I-35 NB @ MM 54.35</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ 3518 EB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ 3518 WB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3520 - I-35 SB @ MM 54.35</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ 3087 WB On Ramp</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ629 - I-35 SB @ MM 57.55</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ 3516 WB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ 3516 EB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US-65 SB @ MP 75.3              </field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">US-65 NB @ MP 75.3              </field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB @ 34th Ave NW           </field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB @ 34th Ave NW           </field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB @ 34th Ave NW Off Ramp  </field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 EB Off Ramp @ DMS - Altoona</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ 3087 WB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ 3087 EB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ 3087 EB Off Ramp</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ 3516 EB Off Ramp</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ 3516 WB On Ramp</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ 3507 EB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ 3507 WB</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ 3507 WB On Ramp</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">I-80 WB On Ramp @ Hubbell - Alto</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ2989 - US 65 NB @ MM 62</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ2989 - US 65 SB @ MM 62</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3083 - US 65 NB @ MM 63</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3083 - US 65 SB @ MM 63</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3527 - I-35 SB @ Decatur Rest</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3555 - I-35 SB @ south of US </field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3556 - I-35 NB @ IA-MO border</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3556 - I-35 SB @ IA-MO border</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3555 - I-35 NB @ south of US </field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3527 - I-35 NB @ Decatur Rest</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ629 - I-35 NB @ MM 57.55</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3093 - I-35 SB @ MM 58.8</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3093 - I-35 NB @ MM 58.8</field1>
+    <field2 name="Status">operational</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3073 - I-35 NB @ MM 53.63</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3073 - I-35 SB @ MM 53.63</field1>
+    <field2 name="Status">failed</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3554 - I-35 NB @ MM 111.4 (IL</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3554 - I-35 SB @ MM 111.4 (IL</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3085 - I-35 NB @ MM 112 (IL)</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3085 - I-35 SB @ MM 112 (IL)</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3069 - I-80 EB @ Hwy T38 On R</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3069 - I-80 WB @ Hwy T38 Off </field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ2005 - I-80 EB @ MM 178.20</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ2005 - I-80 WB @ MM 178.20</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3309 - I-80 EB @ Grinnell RA</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3309 - I-80 WB @ Grinnell RA</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ2995 - I-80 EB @ MM 172.50</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ2995 - I-80 WB @ MM 172.50</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3091 - I-80 EB @ MM 176.35</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ3091 - I-80 WB @ MM 176.35</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ2987 - I-80 EB @ MM 175.55</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ2987 - I-80 WB @ MM 175.55</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ2992 - I-80 EB @ US 169</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+  <detector_details>
+    <field1 name="detector_ID">IWZ2992 - I-80 WB @ US 169</field1>
+    <field2 name="Status">off</field2>
+  </detector_details>
+</ROOT>
